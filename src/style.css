@@ -1,0 +1,34 @@
+body {
+  background-color: lightblue;
+}
+
+div {
+  border: solid;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 26px;
+}
+
+table {
+  /* display: flex; */
+  /* justify-content: center; */
+  font-size: larger;
+  border-spacing: 4vmin;
+  border-collapse: initial;
+  margin: auto;
+  border: solid;
+  background: cornflowerblue;
+}
+
+td {
+  height: 2vh;
+  width: 2vw;
+  border: solid;
+}
